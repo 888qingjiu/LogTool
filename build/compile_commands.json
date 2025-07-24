@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/ht/QtStudy/LogTool/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -ILogTool_autogen/include -I../qssh/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork  -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g   -fPIC -std=gnu++17 -o CMakeFiles/LogTool.dir/LogTool_autogen/mocs_compilation.cpp.o -c /home/ht/QtStudy/LogTool/build/LogTool_autogen/mocs_compilation.cpp",
+  "file": "/home/ht/QtStudy/LogTool/build/LogTool_autogen/mocs_compilation.cpp"
+},
+
+{
+  "directory": "/home/ht/QtStudy/LogTool/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -ILogTool_autogen/include -I../qssh/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork  -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g   -fPIC -std=gnu++17 -o CMakeFiles/LogTool.dir/main.cpp.o -c /home/ht/QtStudy/LogTool/main.cpp",
+  "file": "/home/ht/QtStudy/LogTool/main.cpp"
+},
+
+{
+  "directory": "/home/ht/QtStudy/LogTool/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -ILogTool_autogen/include -I../qssh/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork  -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g   -fPIC -std=gnu++17 -o CMakeFiles/LogTool.dir/mainwindow.cpp.o -c /home/ht/QtStudy/LogTool/mainwindow.cpp",
+  "file": "/home/ht/QtStudy/LogTool/mainwindow.cpp"
+},
+
+{
+  "directory": "/home/ht/QtStudy/LogTool/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -ILogTool_autogen/include -I../qssh/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtNetwork  -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g   -fPIC -std=gnu++17 -o CMakeFiles/LogTool.dir/CConnectionForSshClient.cpp.o -c /home/ht/QtStudy/LogTool/CConnectionForSshClient.cpp",
+  "file": "/home/ht/QtStudy/LogTool/CConnectionForSshClient.cpp"
+}
+]

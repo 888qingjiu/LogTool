@@ -1,0 +1,16 @@
+# ninja log v5
+34	1300	1753170724467304194	CMakeFiles/LogTool.dir/CConnectionForSshClient.cpp.o	c9ff101d78952338
+5	28	1753171258331211135	LogTool_autogen/timestamp	5075061cff16489a
+5	28	1753171258331211135	LogTool_autogen/mocs_compilation.cpp	5075061cff16489a
+243	1660	1753170499121667879	CMakeFiles/LogTool.dir/main.cpp.o	e5ae4e9c6f7211
+5	28	1753171258331211135	/home/ht/QtStudy/LogTool/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/LogTool_autogen/timestamp	5075061cff16489a
+5	28	1753171258331211135	/home/ht/QtStudy/LogTool/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/LogTool_autogen/mocs_compilation.cpp	5075061cff16489a
+1618	1927	1753171260547342883	LogTool	80a202a261c1d7f0
+244	1682	1753170499141669097	CMakeFiles/LogTool.dir/LogTool_autogen/mocs_compilation.cpp.o	2246ece06fb7ea44
+38	1618	1753171260243324810	CMakeFiles/LogTool.dir/mainwindow.cpp.o	20dab8b9faa914f3
+9	33	1753171323207066409	LogTool_autogen/timestamp	5075061cff16489a
+9	33	1753171323207066409	LogTool_autogen/mocs_compilation.cpp	5075061cff16489a
+9	33	1753171323207066409	/home/ht/QtStudy/LogTool/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/LogTool_autogen/timestamp	5075061cff16489a
+9	33	1753171323207066409	/home/ht/QtStudy/LogTool/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/LogTool_autogen/mocs_compilation.cpp	5075061cff16489a
+43	1611	1753171325139181178	CMakeFiles/LogTool.dir/mainwindow.cpp.o	20dab8b9faa914f3
+1611	1917	1753171325443199236	LogTool	4eecc2c1cfc292c5
